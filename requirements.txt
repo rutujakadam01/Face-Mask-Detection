@@ -1,6 +1,6 @@
-numpy== 2.5.0
-tensorflow== 2.21.0
-pillow== 12.2.0
-pandas== 3.0.3
-streamlit== 1.58.0
-streamlit-cropper== 0.3.1
+numpy
+tensorflow
+pillow
+pandas
+streamlit
+streamlit-cropper
