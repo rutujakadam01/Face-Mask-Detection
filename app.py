@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model
 from streamlit_cropper import st_cropper
 
 
-st.title("Face Mask Detection Project")
+st.title("😷 𝙁𝙖𝙘𝙚 𝙈𝙖𝙨𝙠 𝘿𝙚𝙩𝙚𝙘𝙩𝙞𝙤𝙣 🛡️")
 model = load_model("face-mask-detector.keras")
 
 option = st.selectbox("Select", ["Image", "Capture"])
